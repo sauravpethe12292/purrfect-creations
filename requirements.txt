@@ -1,0 +1,4 @@
+Django==3.2.9
+pyairtable==1.0.1
+django-bootstrap4
+python-decouple==3.6
